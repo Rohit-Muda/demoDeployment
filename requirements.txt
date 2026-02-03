@@ -1,3 +1,7 @@
-streamlit==1.28.1
+streamlit
 mysql-connector-python==8.2.0
+<<<<<<< HEAD
 pandas==2.1.3
+=======
+pandas==2.1.3
+>>>>>>> 987a8ff0afaecbe8fcca7240aa1afd3da9d2e33b
