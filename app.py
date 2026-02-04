@@ -1,4 +1,4 @@
-import streamlit as st
+import app as st
 
 name=st.text_input("Enter Your Name");
 st.write(f"Hello {name}")
